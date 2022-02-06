@@ -1,0 +1,272 @@
+{
+  "trajectoryList": [
+    {
+      "stationList": [
+        {
+          "name": "Utrecht CS",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Neude Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.3
+        },
+        {
+          "name": "Janskerkhof Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 1.0
+        },
+        {
+          "name": "Stadsschouwburg Utrecht",
+          "timeToNextStation": 2,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Wittevrouwen Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 2.4
+        },
+        {
+          "name": "Oorsprongpark Utrecht",
+          "timeToNextStation": 2,
+          "distanceToNextStation": 1.7
+        },
+        {
+          "name": "KNMI De Bilt",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 2.4
+        },
+        {
+          "name": "Jordanlaan Utrecht",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Winkelcentrum Vollenhove Zeist",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.3
+        },
+        {
+          "name": "Gunningenlaan Vollenhove Zeist",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.5
+        },
+        {
+          "name": "L-Flat Zeist",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.7
+        },
+        {
+          "name": "De Dreef/Panweg Zeist",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 0.6
+        },
+        {
+          "name": "Nepveulaan Zeist",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Schaerweijdelaan Zeist",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Steylaan Zeist",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 0.7
+        },
+        {
+          "name": "Bussation zeist",
+          "timeToNextStation": 0,
+          "distanceToNextStation": 0.0
+        }
+      ],
+      "increments": 30,
+      "firstDepartureTime": 20,
+      "vehicleIdentifier": "bus"
+    },
+    {
+      "stationList": [
+        {
+          "name": "Utrecht CS",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Vredenburg Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 2.4
+        },
+        {
+          "name": "Neude Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.3
+        },
+        {
+          "name": "Janskerkhof Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 1.0
+        },
+        {
+          "name": "Stadsschouwburg Utrecht",
+          "timeToNextStation": 2,
+          "distanceToNextStation": 1.5
+        },
+        {
+          "name": "Wittevrouwen Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 2.4
+        },
+        {
+          "name": "Oorsprongpark Utrecht",
+          "timeToNextStation": 2,
+          "distanceToNextStation": 1.7
+        },
+        {
+          "name": "Archimedeslaan Utrecht",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 2.6
+        },
+        {
+          "name": "Steinenburglaan De Bilt",
+          "timeToNextStation": 1,
+          "distanceToNextStation": 0.8
+        },
+        {
+          "name": "Kerklaan De Bilt",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 3.4
+        },
+        {
+          "name": "KNMI De Bilt",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 5.3
+        },
+        {
+          "name": "Amesfoortseweg De Bilt",
+          "timeToNextStation": 0,
+          "distanceToNextStation": 0.0
+        }
+      ],
+      "increments": 30,
+      "firstDepartureTime": 20,
+      "vehicleIdentifier": "bus"
+    },
+    {
+      "stationList": [
+        {
+          "name": "Utrecht CS",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 2.04
+        },
+        {
+          "name": "Utrecht Zuilen",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 5.29
+        },
+        {
+          "name": "Maarssen",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 4.83
+        },
+        {
+          "name": "Breukelen",
+          "timeToNextStation": 10,
+          "distanceToNextStation": 12.1
+        },
+        {
+          "name": "Abcoude",
+          "timeToNextStation": 0,
+          "distanceToNextStation": 0.0
+        }
+      ],
+      "increments": 30,
+      "firstDepartureTime": 20,
+      "vehicleIdentifier": "train"
+    },
+    {
+      "stationList": [
+        {
+          "name": "Utrecht CS",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 4.2
+        },
+        {
+          "name": "Utrecht Overvecht",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 11.1
+        },
+        {
+          "name": "Bilthoven",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 2.9
+        },
+        {
+          "name": "Den Dolder",
+          "timeToNextStation": 9,
+          "distanceToNextStation": 13.5
+        },
+        {
+          "name": "Amesfoort Centraal",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 11.8
+        },
+        {
+          "name": "Amesfoort Schothorst",
+          "timeToNextStation": 3,
+          "distanceToNextStation": 5.0
+        },
+        {
+          "name": "Amesfoort Vathorst",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 9.5
+        },
+        {
+          "name": "Nijkerk",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 11.0
+        },
+        {
+          "name": "Putten",
+          "timeToNextStation": 5,
+          "distanceToNextStation": 7.2
+        },
+        {
+          "name": "Station Ermelo",
+          "timeToNextStation": 4,
+          "distanceToNextStation": 6.6
+        },
+        {
+          "name": "Hardewijk",
+          "timeToNextStation": 8,
+          "distanceToNextStation": 11.7
+        },
+        {
+          "name": "Nunspeet",
+          "timeToNextStation": 6,
+          "distanceToNextStation": 12.0
+        },
+        {
+          "name": "\u0027t Harde",
+          "timeToNextStation": 7,
+          "distanceToNextStation": 11.6
+        },
+        {
+          "name": "Wezep",
+          "timeToNextStation": 7,
+          "distanceToNextStation": 10.5
+        },
+        {
+          "name": "Zwolle",
+          "timeToNextStation": 0,
+          "distanceToNextStation": 0.0
+        }
+      ],
+      "increments": 30,
+      "firstDepartureTime": 21,
+      "vehicleIdentifier": "train"
+    }
+  ]
+}

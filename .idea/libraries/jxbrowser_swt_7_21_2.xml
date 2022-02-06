@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jxbrowser-swt-7.21.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/jxbrowser-swt-7.21.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jxbrowser-swing-7.21.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jxbrowser-linux64-7.21.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jxbrowser-javafx-7.21.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jxbrowser-7.21.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+  </library>
+</component>

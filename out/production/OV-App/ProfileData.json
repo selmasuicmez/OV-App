@@ -1,0 +1,57 @@
+{
+  "profileList": [
+    {
+      "name": "Hichem",
+      "password": "123",
+      "travelHistoryList": {
+        "travelHistoryListing": [
+        ]
+      },
+      "favoriteTravelList": {
+        "favoriteTravelListing": [
+          {
+            "favoriteLocationA": "Utrecht CS",
+            "favoriteLocationB": "Maarssen"
+          },
+          {
+            "favoriteLocationA": "Utrecht Zuilen",
+            "favoriteLocationB": "Abcoude"
+          },
+          {
+            "favoriteLocationA": "Janskerkhof Utrecht",
+            "favoriteLocationB": "Schaerweijdelaan Zeist"
+          },
+          {
+            "favoriteLocationA": "Utrecht CS",
+            "favoriteLocationB": "Den Dolder"
+          },
+          {
+            "favoriteLocationA": "Breukelen",
+            "favoriteLocationB": "Abcoude"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Selma",
+      "password": "123",
+      "travelHistoryList": {
+        "travelHistoryListing": []
+      },
+      "favoriteTravelList": {
+        "favoriteTravelListing": []
+      }
+    },
+    {
+      "name": "Thijmen",
+      "password": "123",
+      "travelHistoryList": {
+        "travelHistoryListing": []
+      },
+      "favoriteTravelList": {
+        "favoriteTravelListing": [
+        ]
+      }
+    }
+  ]
+}
